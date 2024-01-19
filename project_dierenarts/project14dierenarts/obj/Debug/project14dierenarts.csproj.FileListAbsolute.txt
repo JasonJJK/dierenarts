@@ -1,0 +1,12 @@
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\bin\Debug\project14dierenarts.exe.config
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\bin\Debug\project14dierenarts.exe
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\bin\Debug\project14dierenarts.pdb
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.csproj.AssemblyReference.cache
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.loginForm.resources
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.Properties.Resources.resources
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.exe
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.pdb
+C:\Users\Jason\source\repos\project14dierenarts\project14dierenarts\obj\Debug\project14dierenarts.overzichtForm.resources
